@@ -1,4 +1,4 @@
-![GIF](assets/chibi_grim_reaper_github_banner_800x300.gif)
+![GIF](assets/chibi_reaper_ordered_preview_800x300.gif)
 
 ## Hi there 👋
 
