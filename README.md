@@ -1,8 +1,9 @@
 ![GIF](assets/chibi_reaper_ordered_preview_800x300.gif)
 
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersaoktavian)
 
 <!--
+## Hi there 👋
 **Ersaoktaviannn/Ersaoktaviannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
